@@ -1,7 +1,12 @@
 # S3 Bucket Policy Tutorials for Healthcare, Retail, and FinTech
 
 
-#### **Repositories Namea:**: `s3-fintech-bucket-policy-tutorial`
+#### **Repositories:**: 
+
+- [`s3-fintech-bucket-policy-tutorial`](https://github.com/praveennarasimmands/S3-FinTech-Data-Security)
+- [`s3-Retail-bucket-policy-tutorial`](https://github.com/praveennarasimmands/S3-Retail-Data-Security)
+- [`s3-Healthcare-bucket-policy-tutorial`](https://github.com/praveennarasimmands/s3-healthcare-data-security)
+
 
 
 ## **Description**:
@@ -36,7 +41,7 @@ A comprehensive repository for learning how to create and implement AWS S3 bucke
 1. **Clone the repository**:
    - To clone any of the repositories, use the command:
      ```bash
-     git clone <repo_url>
+     git clone https://github.com/praveennarasimmands/S3-Bucket_policy_mastery.git
      ```
 
 2. **Create an S3 Bucket**:
