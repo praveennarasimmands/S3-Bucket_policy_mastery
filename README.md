@@ -34,7 +34,7 @@ A comprehensive repository for learning how to create and implement AWS S3 bucke
 
 5. **Contributing**:
    - Fork the repository and enhance with additional security features like encryption, compliance updates, or new industry use cases.
-
+---
 
 ### Instructions for Setting Up Each Repository:
 
@@ -60,7 +60,7 @@ A comprehensive repository for learning how to create and implement AWS S3 bucke
    - Always test policies in a development environment first.
    - Ensure that S3 bucket permissions are never too permissive (i.e., avoid using `public-read` or `public-write` unless necessary).
    - Regularly review access logs and monitor the activity to detect unauthorized access.
-
+---
 
 ### **Contributions**:
 Contributions are welcome! Feel free to fork these repositories, submit pull requests, and improve upon the existing implementations. We encourage adding new features, security enhancements, and tutorials that cover additional security measures or compliance standards.
