@@ -1,7 +1,7 @@
 # S3 Bucket Policy Tutorials for Healthcare, Retail, and FinTech
 
 
-#### **Repositories:**: 
+## **Repositories:**: 
 
 - [`s3-fintech-bucket-policy-tutorial`](https://github.com/praveennarasimmands/S3-FinTech-Data-Security)
 - [`s3-Retail-bucket-policy-tutorial`](https://github.com/praveennarasimmands/S3-Retail-Data-Security)
@@ -9,7 +9,7 @@
 
 
 
-## **Description**:
+### **Description**:
 A comprehensive repository for learning how to create and implement AWS S3 bucket policies for three industries: Healthcare, Retail, and FinTech. This repository consolidates the knowledge from the three separate projects into one central location with detailed bucket policy guides, IAM role configurations, and instructions for securing sensitive data.
 
 #### **Contents**:
