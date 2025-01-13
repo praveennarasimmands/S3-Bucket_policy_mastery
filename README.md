@@ -6,6 +6,8 @@
 - [`s3-fintech-bucket-policy-tutorial`](https://github.com/praveennarasimmands/S3-FinTech-Data-Security)
 - [`s3-Retail-bucket-policy-tutorial`](https://github.com/praveennarasimmands/S3-Retail-Data-Security)
 - [`s3-Healthcare-bucket-policy-tutorial`](https://github.com/praveennarasimmands/s3-healthcare-data-security)
+- [`S3-E-commerce-Data-Security`](https://github.com/praveennarasimmands/S3-E-commerce-Data-Security)
+- [`S3-Legal-Data-Security`](https://github.com/praveennarasimmands/S3-Legal-Data-Security)
 
 
 
@@ -26,14 +28,16 @@ A comprehensive repository for learning how to create and implement AWS S3 bucke
 3. **FinTech**:
    - Overview of securing financial data in FinTech.
    - S3 bucket policy tutorial and IAM policies.
-   - Example files for securing fintech financial records.
+   - Example files for securing fintech financial records
 
 4. **General Security Best Practices**:
    - Summary of best practices for securing data using S3 bucket policies.
    - Guidance on applying encryption, logging, and monitoring for better security.
 
 5. **Contributing**:
-   - Fork the repository and enhance with additional security features like encryption, compliance updates, or new industry use cases.
+   - Fork the repository and enhance with additional security features like encryption, compliance updates, or new industry use cases
+
+**Note** More Domain Exmaples repositories provided.
 ---
 
 ### Instructions for Setting Up Each Repository:
