@@ -37,7 +37,7 @@ A comprehensive repository for learning how to create and implement AWS S3 bucke
 5. **Contributing**:
    - Fork the repository and enhance with additional security features like encryption, compliance updates, or new industry use cases
 
-**Note** More Domain Exmaples repositories provided.
+#### **Note:** More Domain Exmaple repositories provided.
 ---
 
 ### Instructions for Setting Up Each Repository:
